@@ -2,10 +2,7 @@ This is Perl module Plack.
 
 INSTALLATION
 
-Plack installation is straightforward. If your CPAN shell is set up,
-you should just be able to do
-
-    % cpan Plack
+Plack installation is straightforward. 
 
 Download it, unpack it, then build it as per the usual:
 
